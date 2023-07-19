@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Índice</title>
+</head>
+<body>
+    <h1>Exemplo de Índice</h1>
+
+    <h2>Seção 1</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum ex et metus aliquam, in ullamcorper dolor eleifend.</p>
+
+    <h2>Seção 2</h2>
+    <p>Donec id nisi ultricies, sagittis lectus quis, feugiat elit. Proin dignissim purus a ipsum dictum, a iaculis urna auctor.</p>
+
+    <h2>Seção 3</h2>
+    <p>Phasellus posuere enim vitae mauris efficitur, in varius nisi vehicula. Pellentesque eget urna a odio varius blandit.</p>
+
+    <h2>Seção 4</h2>
+    <p>Quisque non tellus nec metus venenatis hendrerit. Integer luctus elit a massa tempor, et tristique ex aliquet.</p>
+
+    <!-- Índice -->
+    <h2>Índice</h2>
+    <ul>
+        <li><a href="#secao1">Seção 1</a></li>
+        <li><a href="#secao2">Seção 2</a></li>
+        <li><a href="#secao3">Seção 3</a></li>
+        <li><a href="#secao4">Seção 4</a></li>
+    </ul>
+</body>
+</html>
